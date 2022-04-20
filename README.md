@@ -14,11 +14,11 @@
 * Get [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en).  Follow the prompts.
 
 #### Install Userscript
-The userscript removes the video section of the Zoom web client and activates the participants list.  It also zooms in the browser by 200%, thereby increasing visibiliy of the names of the participants, and also if the participant raises his/her virtual hand.
+The userscript removes the video section of the Zoom web client and activates the participants list.  It also zooms in the browser by 350%, thereby increasing visibiliy of the names of the participants, and also if the participant raises his/her virtual hand.
 
 * Get the [Tampermonkey - Zoom Participants only user script](https://gist.github.com/ahlkhoo/fcf9a3a07fb308e956bcc973df5bf076)
 * Create a new script via the Tampermonkey menu.
-* Copy the userscript in the gist above into the Tampermonkey userscript and save.
+* Copy the userscript in the gist above into the Tampermonkey userscript and save (File>Save).
 
 ## Putting it all together
 * Open a new Zoom web client.
