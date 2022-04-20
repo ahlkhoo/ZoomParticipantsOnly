@@ -25,7 +25,7 @@ The userscript removes the video section of the Zoom web client and activates th
 * Key in your username (and password, if needed).
 
 ## Optional
-Installing spacedesk on the PC and the spacedesk client on the Ipad/phone allows you to use the ipad/phone as an additional monitor, albeit connected via wifi.  You can then move the modified Zoom web client browser window to the IPad.  This is done as Tampermonkey does not have a version that runs on Google Chrome on IOS.
+Installing spacedesk on the PC and the spacedesk client on the Ipad/phone allows you to use the ipad/phone as an additional monitor, albeit connected via wifi.  You can then move the modified Zoom web client browser window to the IPad.  This is done as Tampermonkey does not have a version that runs on Google Chrome on IOS/Android.
 
 ### Spacedesk
 * [Installing Spacedesk tutorial](https://www.youtube.com/watch?v=5E-Jk_JD5dY)
