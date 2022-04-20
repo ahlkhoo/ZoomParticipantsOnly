@@ -13,7 +13,7 @@
 * Launch Google Chrome (make sure to update the latest version).
 * Get [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en).  Follow the prompts.
 
-#### Install Userscript.
+#### Install Userscript
 * Get the [Tampermonkey - Zoom Participants only user script](https://gist.github.com/ahlkhoo/fcf9a3a07fb308e956bcc973df5bf076)
 * Create a new script via the Tampermonkey menu.
 * Copy the userscript in the gist above into the Tampermonkey userscript and save.
