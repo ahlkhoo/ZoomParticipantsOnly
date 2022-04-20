@@ -14,6 +14,8 @@
 * Get [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en).  Follow the prompts.
 
 #### Install Userscript
+The userscript removes the video section of the Zoom web client and activates the participants list.  It also zooms in the browser by 200%, thereby increasing visibiliy of the names of the participants, and also if the participant raises his/her virtual hand.
+
 * Get the [Tampermonkey - Zoom Participants only user script](https://gist.github.com/ahlkhoo/fcf9a3a07fb308e956bcc973df5bf076)
 * Create a new script via the Tampermonkey menu.
 * Copy the userscript in the gist above into the Tampermonkey userscript and save.
@@ -23,6 +25,8 @@
 * Key in your username (and password, if needed).
 
 ## Optional
+Installing spacedesk on the PC and the spacedesk client on the Ipad/phone allows you to use the ipad/phone as an additional monitor, albeit connected via wifi.  You can then move the modified Zoom web client browser window to the IPad.  This is done as Tampermonkey does not have a version that runs on Google Chrome on IOS.
+
 ### Spacedesk
 * [Installing Spacedesk](https://www.youtube.com/watch?v=PSqVY7tImvM)
 * [Spacedesk Documentation](https://www.spacedesk.net/user-manual/)
