@@ -25,4 +25,4 @@
 ## Optional
 ### Spacedesk
 * [Installing Spacedesk](https://www.youtube.com/watch?v=PSqVY7tImvM)
-
+* [Spacedesk Documentation](https://www.spacedesk.net/user-manual/)
